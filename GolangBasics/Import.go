@@ -1,4 +1,4 @@
-package main
+package GolangBasics
 
 import ("fmt"
    "net/http")
